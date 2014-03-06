@@ -142,4 +142,3 @@ INSERT INTO `province` (`id_departement`, `id_region`, `code`, `name_province`, 
 (102, 7, '2A', 'Corse du sud', 'CORSE DU SUD', 'corse-du-sud'),
 (103, 7, '2B', 'Haute corse', 'HAUTE CORSE', 'haute-corse'),
 (104, 10, '95', 'Val d''oise', 'VAL D''OISE', 'val-doise');
-
