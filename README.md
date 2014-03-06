@@ -1,2 +1,6 @@
-Pays_Regions_Departements_Villes
+Pays Regions Departements Villes
 ================================
+Format SQL
+Format CSV
+Format XML
+Format XLS
